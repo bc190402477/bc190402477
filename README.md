@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad HAseeb.
+- 👋 Hi, I’m Muhammad Haseeb.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently a information Technology student.
 - 💞️ I’m looking to collaborate on ...
